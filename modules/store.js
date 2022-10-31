@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 //local Storage functionality
 export default class Store {
   static getBooks = () => {

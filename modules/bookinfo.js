@@ -1,3 +1,4 @@
+/* eslint-disable */
 
 //creating Object and adding it to the list functionality
 export default class BookInfo {

@@ -2,19 +2,22 @@
   "name": "awesome-books",
   "version": "1.0.0",
   "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
-  "main": "classScript.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Cluab/Awesom-books.git"
+    "url": "git+https://github.com/Cluab/Awesome-books.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Cluab/Awesom-books/issues"
+    "url": "https://github.com/Cluab/Awesome-books/issues"
   },
-  "homepage": "https://github.com/Cluab/Awesom-books#readme"
+  "homepage": "https://github.com/Cluab/Awesome-books#readme",
+  "dependencies": {
+   
+  }
 }

@@ -1,5 +1,7 @@
+/* eslint-disable */
+
 //navigation functionality
-let showAddddff = () => {
+let showAddf = () => {
     document.getElementById('list-section').setAttribute('class', 'non-show');
     document.getElementById('add-section').setAttribute('class', 'show');
     document.getElementById('contact-section').setAttribute('class', 'non-show');
@@ -38,4 +40,4 @@ let showcontact = () => {
     document.getElementById('con').style.color = 'green';
   }
 
-  export {showList, showAdd, showcontact, showAddddff}
+  export {showList, showAdd, showcontact, showAddf}
