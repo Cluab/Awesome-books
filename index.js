@@ -7,7 +7,7 @@ import Store from './modules/store.js';// local Storage functionality
 
 showAddf();// highlights the page that your on when you open the website
 
-let ondate = () => {
+const ondate = () => {
   const now = DateTime.now().toLocaleString(DateTime.DATETIME_MED_WITH_SECONDS);
   document.querySelector('.date').innerHTML = now;
 }
