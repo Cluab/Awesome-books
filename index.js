@@ -10,7 +10,7 @@ showAddf();// highlights the page that your on when you open the website
 const ondate = () => {
   const now = DateTime.now().toLocaleString(DateTime.DATETIME_MED_WITH_SECONDS);
   document.querySelector('.date').innerHTML = now;
-}
+};
 
 setInterval(() => {
   ondate();// refreshes the function so the date is updated in every seconde
